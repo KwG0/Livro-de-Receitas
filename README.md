@@ -1,5 +1,7 @@
-#Livro de Receitas
+# Livro de Receitas 📚
 
  Olá! Esse é meu livro de Receitas.
  
- ##Receitas Disponíveis
+ ## Receitas Disponíveis
+
+ - Strogonoff de Frango 🐔
