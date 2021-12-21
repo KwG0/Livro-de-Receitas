@@ -2,7 +2,7 @@
 
  Olá! Esse é meu livro de Receitas.
  
- ## Receitas Disponíveis
+ ## Receita Disponível
 
  - Strogonoff de Frango 🐔
- - Bolinho de Chuva ☕
+
