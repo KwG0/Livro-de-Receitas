@@ -5,3 +5,4 @@
  ## Receitas Disponíveis
 
  - Strogonoff de Frango 🐔
+ - Bolinho de Chuva ☕
